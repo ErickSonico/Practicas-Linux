@@ -1,5 +1,5 @@
 # Práctica 1 de Administración de Sistemas Unix/Linux
-
+---
 ## Instalación de VMWare
 Yo ya había usado VMWare anteriomente por lo que ya lo tenía instalado:
 ![Imagen 1](imgs/1.1.png)
