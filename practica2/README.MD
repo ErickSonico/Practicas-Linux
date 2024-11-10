@@ -1,5 +1,5 @@
 # Práctica 2 de Administración de Sistemas Unix/Linux
----
+
 ## Configuración con GParted
 
 Primero descargamos el archivo de gparted

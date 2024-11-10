@@ -1,12 +1,12 @@
 # Práctica 1 de Administración de Sistemas Unix/Linux
----
+
 ## Instalación de VMWare
 Yo ya había usado VMWare anteriomente por lo que ya lo tenía instalado:
 ![Imagen 1](imgs/1.1.png)
 Descarga de la imagen de Debian 12:
 ![Imagen 2](imgs/1.2.png)
 
----
+
 ### Instalación sin LVM
 Creación de la máquina virtual: 
 ![Imagen 3](imgs/1.3.png)
