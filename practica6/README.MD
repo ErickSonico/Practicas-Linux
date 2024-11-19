@@ -60,7 +60,7 @@ Copiamos el archivo de configuración por defecto para phpMyAdmin:
 
 ![Imagen 19](imgs/19.png)
 
-Habilitamos la configuración en apache2 y reiniciamos el servicio:
+Habilitamos la configuración y reiniciamos el servicio:
 
 ![Imagen 20](imgs/20.png)
 
